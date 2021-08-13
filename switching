@@ -1,0 +1,20 @@
+#include<stdio.h>
+ int main()
+ {
+ int a = 0;
+ 
+ switch(a)
+ {
+ case 1 :
+ statement("a = 0");
+ break;
+ 
+ case 2 :
+ printf("a"1");
+ break;
+ 
+ default:
+ printf("saying so");
+ break;
+ }
+ }
